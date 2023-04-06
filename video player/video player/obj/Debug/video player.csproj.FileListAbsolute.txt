@@ -14,3 +14,19 @@ D:\COLLECTIONSSS\PS TEST\video player\video player\obj\Debug\Interop.WMPLib.dll
 D:\COLLECTIONSSS\PS TEST\video player\video player\obj\Debug\AxInterop.WMPLib.dll
 D:\COLLECTIONSSS\PS TEST\video player\video player\obj\Debug\video player.csproj.ResolveComReference.cache
 D:\COLLECTIONSSS\PS TEST\video player\video player\obj\Debug\video_player.Form1.resources
+D:\Video-player\video player\video player\bin\Debug\video player.exe.config
+D:\Video-player\video player\video player\bin\Debug\video player.exe
+D:\Video-player\video player\video player\bin\Debug\video player.pdb
+D:\Video-player\video player\video player\bin\Debug\Interop.WMPLib.dll
+D:\Video-player\video player\video player\bin\Debug\AxInterop.WMPLib.dll
+D:\Video-player\video player\video player\obj\Debug\video player.csproj.AssemblyReference.cache
+D:\Video-player\video player\video player\obj\Debug\video player.csproj.SuggestedBindingRedirects.cache
+D:\Video-player\video player\video player\obj\Debug\Interop.WMPLib.dll
+D:\Video-player\video player\video player\obj\Debug\AxInterop.WMPLib.dll
+D:\Video-player\video player\video player\obj\Debug\video player.csproj.ResolveComReference.cache
+D:\Video-player\video player\video player\obj\Debug\video_player.Form1.resources
+D:\Video-player\video player\video player\obj\Debug\video_player.Properties.Resources.resources
+D:\Video-player\video player\video player\obj\Debug\video player.csproj.GenerateResource.cache
+D:\Video-player\video player\video player\obj\Debug\video player.csproj.CoreCompileInputs.cache
+D:\Video-player\video player\video player\obj\Debug\video player.exe
+D:\Video-player\video player\video player\obj\Debug\video player.pdb
